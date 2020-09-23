@@ -1,0 +1,23 @@
+{
+  "name": "graphql-api",
+  "version": "1.0.0",
+  "description": "an event booking app builded with GraphQL, nodejs, MongoDB and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphQL",
+    "nodejs",
+    "MongoDB",
+    "React"
+  ],
+  "author": "Renato Lima Santos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
