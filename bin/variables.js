@@ -1,6 +1,6 @@
 exports.variables = {
-    Server :{
-        PORT = 3000
+    serverVars :{
+        PORT: 3000
     }
 }
 
